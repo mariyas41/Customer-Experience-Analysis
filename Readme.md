@@ -80,7 +80,4 @@ The aim was to identify why **30% of calls were abandoned**, determine whether i
 ✅ Expected abandonment rate reduction from **30% → ~10%** after routing fixes and optimized coverage.
 
 
----
-
-### 🗂️ Repository Structure
 
